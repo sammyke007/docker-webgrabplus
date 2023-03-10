@@ -19,6 +19,6 @@ mkdir -p /config/License
 ln -sf /config/License /app/wg++/bin.net/WebGrab+Plus
 
 # permissions
-chown -R abc:abc \
+chown -R root:root \
     /app \
     /config \
