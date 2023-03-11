@@ -22,3 +22,4 @@ ln -sf /config/License /app/wg++/bin.net/WebGrab+Plus
 chown -R root:root \
     /app \
     /config \
+    /data
